@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Nitflex" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FF6BDE</item>
+        <item name="colorPrimaryVariant">#D10323</item>
+        <item name="colorOnPrimary">#250000</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FF4F4F</item>
+        <item name="colorSecondaryVariant">#FF6E90</item>
+        <item name="colorOnSecondary">#190000</item>
+    </style>
+</resources>

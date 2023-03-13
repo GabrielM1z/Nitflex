@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Netflix style global. -->
+    <style name="Nitflex">
+    </style>
+
+    <!-- Netflix Titre style. -->
+    <style name="Nitflex.titre">
+
+        <item name="android:textColor">#E6000DFA</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <!-- Netflix Button style. -->
+    <style name="Nitflex.button">
+
+        <item name="android:textColor">#2F0059</item>
+    </style>
+
+
+</resources>

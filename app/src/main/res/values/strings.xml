@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nitflex</string>
+    <string name="txt_welcome1">Welcome to Nitflex</string>
+    <string name="txt_welcome2">Press start for our unique video</string>
+    <string name="btn_start">START</string>
+</resources>
